@@ -15,3 +15,7 @@ It is a discord bot bot which can play lofi song in different language 24/7. It 
 - play (song name)
 
 ![playy](https://media.discordapp.net/attachments/911627187734585413/937640528697249822/unknown.png?width=818&height=434)
+
+- Premium System
+
+![premium](https://media.discordapp.net/attachments/911627187734585413/937641450806595604/unknown.png?width=641&height=434)
