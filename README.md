@@ -45,3 +45,28 @@ Run the repo and it takes time to install package then bot will be online
 - This bot was made by **Supreme#2401** 
 
 ![Supreme](https://media.discordapp.net/attachments/911627187734585413/937645307515256872/unknown.png?width=540&height=434)
+
+
+# Emoji
+
+https://cdn.discordapp.com/emojis/937332059611996180.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063758780579951.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937180728851058778.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937265342235955200.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063815286226985.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937352434521604207.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063387236552714.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937180690091487343.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937180804516282418.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063728459948063.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937332087357341726.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063426121936907.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063455612096523.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063634587222046.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063665604108319.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937180770877980732.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937265372678217798.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937265413463605278.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063697157861527.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063787821953034.webp?size=44&quality=lossless
+https://cdn.discordapp.com/emojis/937063535802978345.webp?size=44&quality=lossless
