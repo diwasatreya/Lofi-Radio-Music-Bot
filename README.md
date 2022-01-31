@@ -19,3 +19,20 @@ It is a discord bot bot which can play lofi song in different language 24/7. It 
 - Premium System
 
 ![premium](https://media.discordapp.net/attachments/911627187734585413/937641450806595604/unknown.png?width=641&height=434)
+
+
+## Steps to setup 
+
+- Step 1
+If you are replit user then [Click Here](https://repl.it/github/diwasatreya/Lofi-Radio-Music-Bot)
+- Step 2 
+Change all the emojis id in `emoji.json` file
+
+![Emoji](https://media.discordapp.net/attachments/899947313357791312/937643161268944916/unknown.png?width=584&height=434)
+
+- Step 3
+
+![token](https://media.discordapp.net/attachments/899947313357791312/937643742561701918/unknown.png)
+
+- Step 4 
+Run the repo and it takes time to install package then bot will be online
