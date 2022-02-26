@@ -32,7 +32,7 @@
     "mathjs": "^9.4.4",
     "moment": "^2.29.1",
     "mongoose": "^6.0.5",
-    "node-fetch": "^2.6.2",
+    "node-fetch": "^2.6.7",
     "node-superfetch": "^0.2.3",
     "nodemon": "^2.0.12",
     "parse-ms": "^2.1.0",
