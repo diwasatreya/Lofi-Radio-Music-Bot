@@ -42,7 +42,7 @@ Change all the emojis id in `emoji.json` file
 Run the repo and it takes time to install package then bot will be online
 
 # Developer
-- This bot was made by **Supreme#2401** 
+- This bot was made by **Atreya#2401** 
 
 ![Supreme](https://media.discordapp.net/attachments/911627187734585413/937645307515256872/unknown.png?width=540&height=434)
 
