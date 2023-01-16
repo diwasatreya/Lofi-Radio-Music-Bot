@@ -47,4 +47,4 @@ Run the repo and it takes time to install package then bot will be online
 ![Supreme](https://media.discordapp.net/attachments/911627187734585413/937645307515256872/unknown.png?width=540&height=434)
 
 
-- Follow me on github
+- Follow me on github & twitter
